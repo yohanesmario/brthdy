@@ -1,0 +1,5 @@
+export enum JobStatus {
+  SCHEDULED = 'SCHEDULED',
+  PROCESSING = 'PROCESSING',
+  PROCESSED = 'PROCESSED',
+}
